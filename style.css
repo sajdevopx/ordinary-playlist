@@ -35,7 +35,7 @@ body {
 }
 
 .content {
-  opacity: 0.7;
+  /* opacity: 0.7; */
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   width: 350px;
   height: 580px;
@@ -168,4 +168,14 @@ body {
 .control-btn span:active {
   box-shadow: inset 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     inset -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+  .content {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+  }
 }

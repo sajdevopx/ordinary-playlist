@@ -35,4 +35,10 @@ let songs = [
     img: 'img5',
     audio: 'nothing',
   },
+  {
+    name: 'Lifetime - Elli(Cover)',
+    artist: 'Ben&Ben',
+    img: 'img7',
+    audio: 'lifetime',
+  },
 ];

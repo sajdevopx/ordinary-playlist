@@ -14,6 +14,11 @@ body {
   background-color: #a4907c;
 }
 
+.nowplaying {
+  font-weight: bold;
+  color: #a4907c;
+}
+
 .content {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   width: 350px;

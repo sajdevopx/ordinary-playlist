@@ -6,6 +6,12 @@ let songs = [
     audio: 'ordinary song',
   },
   {
+    name: 'Maybe this time - Elli(Cover)',
+    artist: 'Micheal Murphy',
+    img: 'img6',
+    audio: 'maybe',
+  },
+  {
     name: 'Celeste - Ins',
     artist: 'Tothapi',
     img: 'img2',

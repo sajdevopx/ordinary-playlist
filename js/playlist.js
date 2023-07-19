@@ -60,6 +60,12 @@ let songs = [
     audio: 'babalik',
   },
   {
+    name: 'Paraluman - Elli(Cover)',
+    artist: 'Adie',
+    img: 'img16',
+    audio: 'paraluman',
+  },
+  {
     name: 'Leaving on a jet plane - Elli(Cover)',
     artist: 'John Denver',
     img: 'img11',
@@ -82,5 +88,11 @@ let songs = [
     artist: 'The Foundations',
     img: 'img14',
     audio: 'buttercup',
+  },
+  {
+    name: 'I love you 3000 - Elli(Cover)',
+    artist: 'Stephanie Poetri',
+    img: 'img15',
+    audio: '3000',
   },
 ];

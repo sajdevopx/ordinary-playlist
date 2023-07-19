@@ -71,4 +71,16 @@ let songs = [
     img: 'img12',
     audio: 'love',
   },
+  {
+    name: 'Leaves - Elli(Cover)',
+    artist: 'Ben&Ben',
+    img: 'img13',
+    audio: 'leaves',
+  },
+  {
+    name: 'Build me up buttercup - Elli(Cover)',
+    artist: 'The Foundations',
+    img: 'img14',
+    audio: 'buttercup',
+  },
 ];

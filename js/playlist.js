@@ -36,9 +36,39 @@ let songs = [
     audio: 'nothing',
   },
   {
+    name: 'When i met you - Elli(Cover)',
+    artist: 'APO Hiking Society',
+    img: 'img10',
+    audio: 'when',
+  },
+  {
     name: 'Lifetime - Elli(Cover)',
     artist: 'Ben&Ben',
     img: 'img7',
     audio: 'lifetime',
+  },
+  {
+    name: 'Starting over again - Elli(Cover)',
+    artist: 'Natalie Cole',
+    img: 'img8',
+    audio: 'starting',
+  },
+  {
+    name: "Babalik sa'yo - Elli(Cover)",
+    artist: 'Moira Dela Torre',
+    img: 'img9',
+    audio: 'babalik',
+  },
+  {
+    name: 'Leaving on a jet plane - Elli(Cover)',
+    artist: 'John Denver',
+    img: 'img11',
+    audio: 'jet',
+  },
+  {
+    name: "You can't hurry love - Elli(Cover)",
+    artist: 'Phil Collins',
+    img: 'img12',
+    audio: 'love',
   },
 ];

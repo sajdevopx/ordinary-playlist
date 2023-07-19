@@ -1,13 +1,13 @@
 let songs = [
   {
-    name: 'Ordinary Song - Elli(Cover Ins)',
+    name: 'Ordinary Song - Elli(Cover)',
     artist: 'Marc Velasco',
     img: 'img1',
     audio: 'ordinary song',
   },
   {
     name: 'Maybe this time - Elli(Cover)',
-    artist: 'Micheal Murphy',
+    artist: 'Michael Murphy',
     img: 'img6',
     audio: 'maybe',
   },
@@ -94,5 +94,35 @@ let songs = [
     artist: 'Stephanie Poetri',
     img: 'img15',
     audio: '3000',
+  },
+  {
+    name: 'Ikaw lang - Elli(Cover)',
+    artist: 'Nobita',
+    img: 'img17',
+    audio: 'ikaw',
+  },
+  {
+    name: 'Pagsamo - Elli(Cover)',
+    artist: 'Arthur Nery',
+    img: 'img18',
+    audio: 'pagsamo',
+  },
+  {
+    name: 'Sa susunod na habang buhay - Elli(Cover)',
+    artist: 'Ben&Ben',
+    img: 'img19',
+    audio: 'habang buhay',
+  },
+  {
+    name: "Won't last a day without you - Elli(Cover)",
+    artist: 'Carpenters',
+    img: 'img20',
+    audio: 'wont last',
+  },
+  {
+    name: 'Kanlungan - Elli(Cover)',
+    artist: 'Noel Cabangon',
+    img: 'img21',
+    audio: 'kanlungan',
   },
 ];

@@ -18,7 +18,7 @@ let songs = [
     audio: 'celeste',
   },
   {
-    name: 'Sometimes - Elli(Cover Ins)',
+    name: 'Sometimes - Elli(Cover)',
     artist: 'Britney Spears',
     img: 'img3',
     audio: 'sometimes',
